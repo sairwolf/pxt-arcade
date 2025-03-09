@@ -8,7 +8,7 @@ namespace createText {
 		const width = font.charWidth * text.length;
 		const height = font.charHeight;
 		const res = image.create(width, height);
-		res.f ill(bg);
+		res.fill(bg);
 		res.print(text, 0, 0, fg, font);
 		const sprite = sprites.create(res, SpriteKind.Food);
 		return sprite;
