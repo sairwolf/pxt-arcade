@@ -1,0 +1,15 @@
+{
+	"name": "createText",
+	"version": "0.0.1",
+	"description": " 自訂文字積木",
+	"license": "MIT",
+	"dependencies": {
+	"core": "*"
+	},
+	"files": [
+	"main.ts",
+	"README.md",
+	"_locales/zh/createText-strings.json"
+	],
+	"public": true
+}

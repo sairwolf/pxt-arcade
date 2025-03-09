@@ -1,0 +1,4 @@
+{
+	"createText|block": " 自訂文字",
+	"createText.dispText|block": " 顯示 文字 %text| 顏色 %fg| 背景 %bg"
+}
